@@ -77,7 +77,7 @@ class HomePage extends StatelessWidget {
                       ),
                       minimumSize: const Size(78, 78),
                     ),
-                    child: const Icon(Icons.euro),
+                    child: const Icon(Icons.attach_money),
                   ),
                 ),
               ),
